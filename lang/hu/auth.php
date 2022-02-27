@@ -24,5 +24,5 @@ return [
     */
 
     'failed'   => 'Rossz email-jelszó páros.',
-    'throttle' => 'Túl sok próbálkozás. Kérjük próbálja újra :seconds másodperc múlva.',
+    'throttle' => 'Túl sok próbálkozás. Kérjük próbálja újra :másodperc múlva.',
 ];
