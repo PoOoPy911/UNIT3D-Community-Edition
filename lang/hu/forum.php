@@ -47,7 +47,7 @@ return [
     'not-subscribed'            => 'Nincs előfizetve',
     'open'                      => 'Nyisd ki',
     'open-topic'                => 'Nyissa meg ezt a témát',
-    'permalink'                 => 'Permalink',
+    'permalink'                 => 'Állandó hivatkozás ',
     'pin'                       => 'tű',
     'post'                      => 'posta',
     'post-quick-search'         => 'Postai gyorskeresés',
