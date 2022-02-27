@@ -12,7 +12,7 @@
  */
 
 return [
-    'add-option'      => 'Add opció',
+    'add-option'      => 'Opció hozzáadása',
     'create-poll'     => 'Szavazás létrehozása',
     'current'         => 'Aktuális szavazás (ok)',
     'delete-option'   => 'Törlés opció',
@@ -20,10 +20,10 @@ return [
     'option'          => 'választási lehetőség',
     'poll'            => 'Közvélemény kutatás',
     'polls'           => 'Szavazás',
-    'results'         => 'Poll eredmények',
+    'results'         => 'Szavazás eredmények',
     'title'           => 'Cím',
     'total'           => 'Összes szavazat',
     'vote'            => 'Szavazás',
-    'vote-now'        => 'Szerezd meg a szavazást most!',
-    'votes'           => 'szavazatok',
+    'vote-now'        => 'Szavazz most!',
+    'votes'           => 'Szavazatok',
 ];
